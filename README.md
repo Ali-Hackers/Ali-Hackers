@@ -1,5 +1,6 @@
-### <p align="center">Hi there, I'm Ali 👋</p>
+<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
 
+### <p align="center">Hi there, I'm Ali 👋</p>
 
 - 👀 I’m interested in JavaScript.
 - 🌱 I’m currently learning JavaScript and I'm in my 2nd year of study.
@@ -12,8 +13,7 @@
 - 📫 How to reach me:
   - **Email**: hello.alideveloper@gmail.com
   - **WhatsApp**: +92 319 6992919
-  
-  - **GitHub**: [Ali's GitHub](https://github.com/code-ali-developer)
+  - **GitHub**: [Ali's GitHub](https://github.com/Ali-hackers)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
@@ -23,9 +23,8 @@
 - **Frameworks/Libraries**: React, Node.js, Express
 - **Tools**: Git, GitHub, VS Code
 
-
 ### Education
-- **Degree**: Currently pursuing a degree in software Engineier
+- **Degree**: Currently pursuing a degree in software  Engineier
 - **Year**: 2nd year
 
 ### Goals
@@ -39,7 +38,4 @@
 
 Feel free to connect with me if you share similar interests or if you have exciting projects to collaborate on!
 
-<!---
-code-ali-developer/code-ali-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
