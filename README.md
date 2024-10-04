@@ -1,4 +1,4 @@
-<div style="background-color: #181818; color: #f0f0f0; padding: 30px; border-radius: 15px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto;">
+<div style="background-color: #000000; color: #f0f0f0; padding: 30px; border-radius: 15px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto;">
   <h2 style="text-align: center; font-size: 2.2em; color: #00d1b2;">👋 Hi there, I'm Ali!</h2>
   <p style="text-align: center; font-size: 1.2em; color: #f4f4f4; margin-top: -10px;">A Passionate Developer Exploring the Web World</p>
   <hr style="border-top: 2px solid #00d1b2; width: 50%; margin: 20px auto;" />
