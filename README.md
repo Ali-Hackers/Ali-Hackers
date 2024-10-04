@@ -1,41 +1,57 @@
-<div style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
+<div style="background-color: #181818; color: #f0f0f0; padding: 30px; border-radius: 15px; font-family: 'Arial', sans-serif; max-width: 800px; margin: auto;">
+  <h2 style="text-align: center; font-size: 2.2em; color: #00d1b2;">👋 Hi there, I'm Ali!</h2>
+  <p style="text-align: center; font-size: 1.2em; color: #f4f4f4; margin-top: -10px;">A Passionate Developer Exploring the Web World</p>
+  <hr style="border-top: 2px solid #00d1b2; width: 50%; margin: 20px auto;" />
 
-### <p align="center">Hi there, I'm Ali 👋</p>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div style="flex: 1; padding-right: 20px;">
+      <ul style="list-style: none; padding: 0; font-size: 1.1em;">
+        <li>👀 I’m interested in JavaScript and Full-Stack Development.</li>
+        <li>🌱 Currently learning advanced concepts in <strong>React</strong> and <strong>Node.js</strong>.</li>
+        <li>💞️ Excited to collaborate on innovative web applications.</li>
+        <li>📖 Eager to contribute to <strong>open-source</strong> JavaScript libraries and frameworks.</li>
+      </ul>
+    </div>
+    <img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" alt="Ali's Avatar" style="border-radius: 50%; width: 150px; border: 3px solid #00d1b2;" />
+  </div>
 
-- 👀 I’m interested in JavaScript.
-- 🌱 I’m currently learning JavaScript and I'm in my 2nd year of study.
-- 💞️ I’m looking to collaborate on:
-  - Adding new features and improvements to JavaScript projects.
-  - Contributing to open-source JavaScript libraries and frameworks.
-  - Building web applications and tools with JavaScript.
-  - Sharing knowledge and learning from the community.
+  <div style="text-align: center; margin: 30px 0;">
+    <a href="mailto:hello.alideveloper@gmail.com" style="color: #00d1b2; text-decoration: none; font-size: 1.2em; font-weight: bold;">📧 Email Me</a> | 
+    <a href="https://github.com/Ali-hackers" target="_blank" style="color: #00d1b2; text-decoration: none; font-size: 1.2em; font-weight: bold;">🐙 GitHub</a> | 
+    <a href="https://wa.me/923196992919" target="_blank" style="color: #00d1b2; text-decoration: none; font-size: 1.2em; font-weight: bold;">💬 WhatsApp</a>
+  </div>
 
-- 📫 How to reach me:
-  - **Email**: hello.alideveloper@gmail.com
-  - **WhatsApp**: +92 319 6992919
-  - **GitHub**: [Ali's GitHub](https://github.com/Ali-hackers)
+  <hr style="border-top: 2px solid #00d1b2; width: 50%; margin: 20px auto;" />
 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+  <h3 style="text-align: center; font-size: 1.8em; color: #00d1b2;">Skills</h3>
+  <ul style="list-style: none; display: flex; justify-content: space-around; padding: 0; font-size: 1.1em;">
+    <li><strong>Languages:</strong> JavaScript, HTML, CSS</li>
+    <li><strong>Frameworks:</strong> React, Node.js, Express, jQuery, Bootstrap</li>
+    <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
+  </ul>
 
-### Skills
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks/Libraries**: React, Node.js, Express
-- **Tools**: Git, GitHub, VS Code
+  <div style="margin: 30px 0; text-align: center;">
+    <h3 style="color: #00d1b2;">🎯 Education</h3>
+    <p>👨‍🎓 Currently pursuing a degree in Software Engineering (2nd Year).</p>
 
-### Education
-- **Degree**: Currently pursuing a degree in software  Engineier
-- **Year**: 2nd year
+    <h3 style="color: #00d1b2;">🚀 Goals</h3>
+    <p><strong>Short-term:</strong> Master JavaScript and contribute to open-source projects.<br>
+    <strong>Long-term:</strong> Become a full-stack developer and work on innovative web applications.</p>
 
-### Goals
-- **Short-term**: Master JavaScript and contribute to open-source projects.
-- **Long-term**: Become a full-stack developer and work on innovative web applications.
+    <h3 style="color: #00d1b2;">🏆 Fun Fact</h3>
+    <p>I can solve a Rubik's cube in under a minute!</p>
+  </div>
 
-### Hobbies
-- Coding and building projects
-- Solving puzzles and brain teasers
-- Reading tech blogs and staying updated with the latest in technology
+  <hr style="border-top: 2px solid #00d1b2; width: 50%; margin: 20px auto;" />
 
-Feel free to connect with me if you share similar interests or if you have exciting projects to collaborate on!
+  <h3 style="text-align: center; font-size: 1.8em; color: #00d1b2;">Hobbies</h3>
+  <ul style="list-style: none; display: flex; justify-content: space-around; padding: 0; font-size: 1.1em;">
+    <li>💻 Coding & Building Projects</li>
+    <li>🧩 Solving Puzzles</li>
+    <li>📚 Reading Tech Blogs</li>
+  </ul>
 
+  <div style="text-align: center; margin-top: 30px;">
+    <p>Feel free to connect with me if you share similar interests or if you have exciting projects to collaborate on! ✨</p>
+  </div>
 </div>
